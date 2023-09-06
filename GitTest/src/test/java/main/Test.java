@@ -4,13 +4,4 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("aaaaa");
 	}
-
-	public void naora143() {
-		String aaa = "143";
-	}
-	
-	private int naora144() {
-		
-		return 0;
-	}
 }
