@@ -6,6 +6,7 @@ public class GitTest {
 	}
 	
 	public int nar_143143(){
+		int a = 0;
 		return 0;
 	}
 	
