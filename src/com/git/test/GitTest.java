@@ -8,4 +8,8 @@ public class GitTest {
 	public int nar_143143(){
 		return 0;
 	}
+	
+	public void naora144() {
+		String nar144 = "";
+	}
 }
